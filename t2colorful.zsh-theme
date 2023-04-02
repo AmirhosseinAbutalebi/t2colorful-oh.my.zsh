@@ -45,7 +45,7 @@ function update_command_status() {
             arrow="%{$FG[202]%} ⚫%{$FG[149]%}⚫%{$FG[$((RANDOM%255+1))]%}λ 📁";
         fi
     else
-        arrow="%{$fg_bold[red]%} ⚫⚫λ";
+        arrow="%{$fg_bold[red]%} ⚫⚫λ ";
     fi
     COMMAND_STATUS="${arrow}${reset_font}${color_reset}";
 }
