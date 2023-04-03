@@ -1,6 +1,5 @@
 # t2colorful-oh.my.zsh
-
-<p align="center">![](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh/blob/main/t2colorful.gif)</p>
+![](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh/blob/main/t2colorful.gif)
 
 ## Getting Started
 need to add this theme to theme oh my zsh and then change zshrc theme.
