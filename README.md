@@ -1,6 +1,6 @@
 # t2colorful-oh.my.zsh
 
-![]https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh/blob/main/t2colorful.gif
+![](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh/blob/main/t2colorful.gif)
 
 colorful theme oh my zsh 
 nearly add pic 
