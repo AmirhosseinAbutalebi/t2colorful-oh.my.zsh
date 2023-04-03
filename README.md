@@ -8,7 +8,7 @@ first copy theme to directory theme oh my zsh with this command:
 ```
 cp t2colorful.zsh-theme ~/.oh-my-zsh/themes
 ```
-second change zshrc for use this theme.\n
+second change zshrc for use this theme.
 use your favorite editor and change zshrc in home directory same this:
 ```
 vim ~/.zshrc
