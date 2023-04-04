@@ -40,9 +40,9 @@ function update_command_status() {
     if $COMMAND_RESULT;
     then
         if [[ "$lc" =~ " * ls *" ]]; then
-            arrow="%{$FG[202]%}⚉ %{$FG[149]%}⚉ %{$FG[$((RANDOM%255+1))]%}λ 📂";
+            arrow="%{$FG[202]%}⚉ %{$FG[149]%}⚉ %{$FG[$((RANDOM%255+1))]%}λ 📂 ";
         else
-            arrow="%{$FG[202]%}⚉ %{$FG[149]%}⚉ %{$FG[$((RANDOM%255+1))]%}λ 📁";
+            arrow="%{$FG[202]%}⚉ %{$FG[149]%}⚉ %{$FG[$((RANDOM%255+1))]%}λ 📁 ";
         fi
     else
         arrow="%{$fg_bold[red]%}⚉ ⚉ λ ";
